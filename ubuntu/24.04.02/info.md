@@ -10,6 +10,7 @@
         Сжатый архив содержащий файлы приложения
       </i>
     </div>
+    <br/>
     <div>
       <strong>
         Среда размещения ASP.NET Core в операционной системе Linux с Nginx - Microsoft Learn.url
